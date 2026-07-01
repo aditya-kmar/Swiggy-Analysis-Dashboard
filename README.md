@@ -14,12 +14,6 @@ The dashboard provides meaningful business insights that support data-driven dec
 
 ---
 
-# 📊 Dashboard Preview
-
-![Swiggy Dashboard](Dashboard%20Images/Swiggy%20Dashboard.png)
-
----
-
 # 🎯 Project Objectives
 
 - Analyze overall sales performance.
